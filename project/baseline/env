@@ -1,0 +1,6 @@
+# 모델 경로
+MODEL_PATH=./llama_function_call_merged
+
+# API 설정
+API_HOST=0.0.0.0
+API_PORT=8000
